@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  img {
+  height: 200px; /* Cambia 200px por la altura que prefieras */
+  width: auto;   /* El ancho se ajusta automáticamente para no deformar la imagen */
+}
+  span {
+  cursor: pointer;
+  font-weight: bold; /* Opcional: para resaltar la palabra */
+}
